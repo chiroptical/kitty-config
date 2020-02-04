@@ -5,7 +5,8 @@ I use the gruvbox color scheme. Useful key combinations follow:
 
 ### Windows
 
-- New window: `Ctrl Shift Return`
+- New window: `Alt Enter`
+- Next window: `Alt ]`
 - Move between windows:
   - `Alt Left`
   - `Alt Right`
